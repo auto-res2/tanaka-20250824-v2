@@ -6,5 +6,52 @@
     "UNet-free diffusion",
     "latent diffusion architecture",
     "state space diffusion"
+  ],
+  "research_study_list": [
+    {
+      "title": "Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data"
+    },
+    {
+      "title": "Diffusion Models Beat GANs on Image Synthesis"
+    },
+    {
+      "title": "Diffusion Models Beat GANs on Image Synthesis"
+    },
+    {
+      "title": "U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers"
+    },
+    {
+      "title": "Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers"
+    },
+    {
+      "title": "DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation"
+    },
+    {
+      "title": "UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion"
+    },
+    {
+      "title": "FreeU: Free Lunch in Diffusion U-Net"
+    },
+    {
+      "title": "FreeU: Free Lunch in Diffusion U-Net"
+    },
+    {
+      "title": "Latent Diffusion for Language Generation"
+    },
+    {
+      "title": "Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models"
+    },
+    {
+      "title": "InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models"
+    },
+    {
+      "title": "Diffusion Models Without Attention"
+    },
+    {
+      "title": "Stochastic Optimal Control for Diffusion Bridges in Function Spaces"
+    },
+    {
+      "title": "Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces"
+    }
   ]
 }
